@@ -1,7 +1,7 @@
 // useState: greeting
 // http://localhost:3000/isolated/exercise/01.js
 
-import {useState, useEffect, useContext, useRef, useReducer } from 'react';
+import {useState} from 'react';
 
 const Greeting = props => {
   const { initialName } = props;
