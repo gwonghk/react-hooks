@@ -2,7 +2,7 @@
 // 💯 (alternate) migrate from classes
 // http://localhost:3000/isolated/exercise/04-classes.js
 
-import { useState, useEffect } from 'react';
+// import { useState, useEffect } from 'react';
 import { useLocalStorageState } from '../utils';
 
 // If you'd rather practice refactoring a class component to a function
